@@ -101,7 +101,7 @@ inquirer.prompt([
           inquirer.prompt([{
             type: "list", 
             name: "sendEmail",
-            message: 'Do you want to sent\n\n' + messageString + '\n\n to ' + purpleEmail  + ' from ' + userInfo.user + '?',
+            message: 'Do you want to send\n\n' + messageString + '\n\n to ' + purpleEmail  + ' from ' + userInfo.user + '?',
             choices: [new inquirer.Separator(),
               'Yes',
               'No'
