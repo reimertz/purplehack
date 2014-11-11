@@ -1,6 +1,6 @@
 {
   "name": "purplehack",
-  "version": "0.0.2",
+  "version": "0.0.21",
   "description": "CLI for PurpleScout challenge",
   "bin": {
     "purplehack": "cli.js"
