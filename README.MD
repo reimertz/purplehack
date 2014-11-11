@@ -1,7 +1,7 @@
 purplehack
 =====
 
-purplehack is a command-line inteface the purplescout hack.
+purplehack is a command-line inteface for the purplescout hack.
 
 I has three modes
 * simple mode - just retrieves challenge email
