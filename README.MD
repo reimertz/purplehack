@@ -5,7 +5,7 @@ purplehack is a command-line inteface the purplescout hack.
 
 I has three modes
 * simple mode - just retrieves challenge email
-* hack mode - give some how the email is retrieved.
+* hack mode - give some info about how the email is retrieved.
 * l33t mode - Retrieve challenge email + send personalized to it. 
 
 ##Installation
